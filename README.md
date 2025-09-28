@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Tolk-1-1-Update-2765274bd2cf80e38633c4c325052c95?source=copy_link
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @screenshot1021
+2. 你的主网 TON 钱包地址 = UQCM7ba6FjN_e6NZNxTGoE6dygQtoPBLVGZ4QgJbYGihcggW
 
 
 ## 任务 1：Tolk 的 map 存储过载案例
@@ -27,7 +27,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 你的 Tolk 合约文件名= ？
+1. 你的 Tolk 合约文件名= map_overflow.tolk
 
 
 
